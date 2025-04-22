@@ -1,0 +1,3 @@
+Simple jupyter notebook code (3_point_method.ipynb) for comparing different methods of calculating thermal conductivity for publication Sledd A. et al., (in prep)
+The Harmonic_ThermCon_Output file is harmonically calculated SMP thermal conductivity from Macfarlane et al., (2023) https://tc.copernicus.org/articles/17/5417/2023/ 
+metadata_Temperature.xlsx is from https://doi.org/10.1594/PANGAEA.940200
